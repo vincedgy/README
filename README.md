@@ -36,20 +36,19 @@
 - Jetbrains : https://www.jetbrains.com/
 - jHipster : https://jhipster.github.io/
 - Kafka : https://kafka.apache.org/
+- Mashape : https://market.mashape.com/explore
 - Netflix OSS : https://netflix.github.io/
 - NodeJS : https://nodejs.org/en/
 - PCF : https://pivotal.io/fr/platform
+- Public APIs Collection : https://github.com/toddmotto/public-apis
 - Python : https://www.python.org/
+- Quora : https://www.quora.com/
 - Splunk : https://www.splunk.com
 - Spring, SpringBoot, SpringCloud : https://spring.io/
+- Swagger : http://swagger.io/
 - Talend : https://www.talend.com
 - TypeScript : https://www.typescriptlang.org/
 - VisualOps : https://www.visualops.io
 - VisualStudioCode : https://code.visualstudio.com/
 - WebGL : https://www.khronos.org/webgl/
 - Zookeeper : https://zookeeper.apache.org/
-
-
-
-
-
