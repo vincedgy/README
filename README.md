@@ -6,9 +6,9 @@
 
 ```json
 {
-    _self : [
-        LinkedIn : [https://fr.linkedin.com/in/vincentdagoury]
-        Twitter : [https://twitter.com/VinceDgy]
+    _self {
+        LinkedIn : [https://fr.linkedin.com/in/vincentdagoury],
+        Twitter : [https://twitter.com/VinceDgy],
         GitHub : [https://github.com/vincedgy]
         DockerHub : [https://hub.docker.com/r/vincedgy/]
         Travis : [https://travis-ci.org/vincedgy]
@@ -20,6 +20,6 @@
         Medium : [https://medium.com/@vincedgy]
         StackOverflow : [https://stackoverflow.com/users/2989503/vincent-dagoury]
         Instagram : [https://www.instagram.com/vincentdgy/]
-    ]
+    }
 }
 ```
