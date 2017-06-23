@@ -2,48 +2,53 @@
 
 ![Avatar](https://avatars2.githubusercontent.com/u/6301908?v=3&s=300)
 
-## _self
+## _self :
 
-- LinkedIn : https://fr.linkedin.com/in/vincentdagoury
-- Twitter : https://twitter.com/VinceDgy
-- GitHub : https://github.com/vincedgy
-- DockerHub : https://hub.docker.com/r/vincedgy/
-- Travis : https://travis-ci.org/vincedgy
 - BitBucket : https://bitbucket.org/VinceDgy/
-- Google+ : https://plus.google.com/u/0/+VinceDgy
-- Youtube : https://www.youtube.com/channel/UCDYBZyg7vXkrsHVcbyWxmyQ
-- Cloud9 : https://c9.io/vincedgy
 - Blogger : http://vincedgy.blogspot.fr/
+- Cloud9 : https://c9.io/vincedgy
+- DockerHub : https://hub.docker.com/r/vincedgy/
+- GitHub : https://github.com/vincedgy
+- Google+ : https://plus.google.com/u/0/+VinceDgy
+- Instagram : https://www.instagram.com/vincentdgy/
+- LinkedIn : https://fr.linkedin.com/in/vincentdagoury
 - Medium : https://medium.com/@vincedgy
 - StackOverflow : https://stackoverflow.com/users/2989503/vincent-dagoury
-- Instagram : https://www.instagram.com/vincentdgy/
+- Travis : https://travis-ci.org/vincedgy
+- Twitter : https://twitter.com/VinceDgy
+- Youtube : https://www.youtube.com/channel/UCDYBZyg7vXkrsHVcbyWxmyQ
 
 ## My favorites among many others :
 
-- Spring, SpringBoot, SpringCloud : https://spring.io/
+- Agile Alience : https://www.agilealliance.org/
 - Angular : https://angular.io/
-- jHipster : https://jhipster.github.io/
-- Netflix OSS : https://netflix.github.io/
 - AWS Labs : https://github.com/awslabs
 - Docker : https://www.docker.com/
-- Go Lang : https://golang.org/
-- Python : https://www.python.org/
-- NodeJS : https://nodejs.org/en/
-- Jetbrains : https://www.jetbrains.com/
-- VisualStudioCode : https://code.visualstudio.com/
-- Agile Alience : https://www.agilealliance.org/
-- PCF : https://pivotal.io/fr/platform
-- Heroku : https://www.heroku.com/
+- Electron : https://electron.atom.io/
 - Firebase : https://firebase.google.com/
+- Go Lang : https://golang.org/
 - Google Cloud Plaform : https://cloud.google.com
-- VisualOps : https://www.visualops.io
-- Splunk : https://www.splunk.com
-- HashiCorp : https://www.hashicorp.com/
 - Hadoop : http://hadoop.apache.org/
+- HashiCorp : https://www.hashicorp.com/
+- Heroku : https://www.heroku.com/
 - Hortonworks : https://fr.hortonworks.com/
-- Talend : https://www.talend.com
-- Zookeeper : https://zookeeper.apache.org/
+- Ionic : https://ionicframework.com/
+- Jetbrains : https://www.jetbrains.com/
+- jHipster : https://jhipster.github.io/
 - Kafka : https://kafka.apache.org/
+- Netflix OSS : https://netflix.github.io/
+- NodeJS : https://nodejs.org/en/
+- PCF : https://pivotal.io/fr/platform
+- Python : https://www.python.org/
+- Splunk : https://www.splunk.com
+- Spring, SpringBoot, SpringCloud : https://spring.io/
+- Talend : https://www.talend.com
+- TypeScript : https://www.typescriptlang.org/
+- VisualOps : https://www.visualops.io
+- VisualStudioCode : https://code.visualstudio.com/
+- WebGL : https://www.khronos.org/webgl/
+- Zookeeper : https://zookeeper.apache.org/
+
 
 
 
