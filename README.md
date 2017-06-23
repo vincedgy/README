@@ -7,7 +7,7 @@
 ```yaml
 me:
     _self:
-        - LinkedIn : [https://fr.linkedin.com/in/vincentdagoury]
+        - LinkedIn : [https://fr.linkedin.com/in/vincentdagoury](https://fr.linkedin.com/in/vincentdagoury)
         - Twitter : [https://twitter.com/VinceDgy]
         - GitHub : [https://github.com/vincedgy]
         - DockerHub : [https://hub.docker.com/r/vincedgy/]
