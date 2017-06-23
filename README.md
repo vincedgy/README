@@ -1,6 +1,6 @@
 # My README
 
-![Avatar](https://goo.gl/photos/7cGy5H2FwJkntqHw5)
+![Avatar](https://avatars2.githubusercontent.com/u/6301908?v=3&s=300)
 
 ## My links and repo
 
