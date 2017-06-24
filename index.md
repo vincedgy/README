@@ -7,7 +7,7 @@
 
 ## _self :
 
-- BitBucket : <a href="https://bitbucket.org/VinceDgy">https://bitbucket.org/VinceDgy</a>
+- BitBucket : [https://bitbucket.org/VinceDgy]
 - Blogger : http://vincedgy.blogspot.fr/
 - Cloud9 : https://c9.io/vincedgy
 - DockerHub : https://hub.docker.com/r/vincedgy/
