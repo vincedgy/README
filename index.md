@@ -22,6 +22,7 @@
 - Travis : https://travis-ci.org/vincedgy
 - Twitter : https://twitter.com/VinceDgy
 - Youtube : https://www.youtube.com/channel/UCDYBZyg7vXkrsHVcbyWxmyQ
+- Mashape : https://market.mashape.com/VinceDgy
 
 ## My favorites among many others :
 
