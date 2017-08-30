@@ -9,13 +9,14 @@
 
 ## _self :
 
-- BitBucket : [https://bitbucket.org/VinceDgy]
-- Blogger : http://vincedgy.blogspot.fr/
+- BitBucket : https://bitbucket.org/VinceDgy
+- Blogger : http://vincedgy.blogspot.fr
 - Cloud9 : https://c9.io/vincedgy
-- DockerHub : https://hub.docker.com/r/vincedgy/
+- DockerHub : https://hub.docker.com/r/vincedgy
+- Doodle : https://beta.doodle.com/vincedgy
 - GitHub : https://github.com/vincedgy
 - Google+ : https://plus.google.com/u/0/+VinceDgy
-- Instagram : https://www.instagram.com/vincentdgy/
+- Instagram : https://www.instagram.com/vincentdgy
 - LinkedIn : https://fr.linkedin.com/in/vincentdagoury
 - Medium : https://medium.com/@vincedgy
 - StackOverflow : https://stackoverflow.com/users/2989503/vincent-dagoury
